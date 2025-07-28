@@ -1,3 +1,11 @@
-body{
-    font-size: 2em;
+#love{
+    text-align: center;
+    font-size: 8em;
+    background-color: pink;
+    color:darkmagenta;
+
+}
+#button1{
+    cursor: pointer;
+    padding: 10px 100px;
 }
